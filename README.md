@@ -1,2 +1,2 @@
 # get_openwrt_script
-get shell script to get openwrt
+a shell script to get openwrt source or restore a backup
